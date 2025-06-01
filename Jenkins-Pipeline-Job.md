@@ -55,17 +55,25 @@
      ![image](https://github.com/user-attachments/assets/da63c308-0fda-4f7b-b6cf-b77283a19dec)
 
 ## Building the pipeline script
-- Create a file and name it docker.sh
+- Create a file and name it docker.sh 
   ![image](https://github.com/user-attachments/assets/c625129e-a044-4834-a084-36d453bbac19)
 
   - Paste the docker script on the file
     ![image](https://github.com/user-attachments/assets/c5b5acdb-7b1a-41f7-8e8f-fd5706169f4d)
+
+    - Make the file executable and run it
+    - 
+- Create index file and paste the following
+  
   
 
     - Push files and monitor build
    <img width="963" alt="image" src="https://github.com/user-attachments/assets/68f0fb6b-ce27-4cc5-9f2c-f1c482239b7f" />
 
    ![image](https://github.com/user-attachments/assets/957b2fe7-f473-4492-b4be-a9c9fe79437b)
+
+  ![image](https://github.com/user-attachments/assets/41000e4b-e705-48ce-b31f-3ee53974f7f2)
+
 
 
 
