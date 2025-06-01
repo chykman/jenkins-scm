@@ -62,7 +62,13 @@
     ![image](https://github.com/user-attachments/assets/c5b5acdb-7b1a-41f7-8e8f-fd5706169f4d)
   
 
-    - 
+    - Push files and monitor build
+   <img width="963" alt="image" src="https://github.com/user-attachments/assets/68f0fb6b-ce27-4cc5-9f2c-f1c482239b7f" />
+
+   ![image](https://github.com/user-attachments/assets/957b2fe7-f473-4492-b4be-a9c9fe79437b)
+
+
+
 
 
 
