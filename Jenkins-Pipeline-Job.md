@@ -59,10 +59,19 @@
   ![image](https://github.com/user-attachments/assets/c625129e-a044-4834-a084-36d453bbac19)
 
   - Paste the docker script on the file
-    ![image](https://github.com/user-attachments/assets/c5b5acdb-7b1a-41f7-8e8f-fd5706169f4d)
+   ![image](https://github.com/user-attachments/assets/c5b5acdb-7b1a-41f7-8e8f-fd5706169f4d)
   
+## Push files to repository
+- Push docker and index files to trigger jenkins to build
+  ![image](https://github.com/user-attachments/assets/289a2273-4ab9-4f37-9774-f8ecd6a8d224)
+- Ensure port 8081 is exposed on your Instance
+  ![image](https://github.com/user-attachments/assets/fee1a06c-6ec3-46a8-a2d7-f448e580f382)
+  - Access index file with your browser
+    ![image](https://github.com/user-attachments/assets/75c7dcfc-4d68-499c-9c39-58a1372ecf11)
 
-    - 
+
+
+    
 
 
 
