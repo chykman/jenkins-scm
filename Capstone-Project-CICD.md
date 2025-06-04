@@ -24,15 +24,33 @@
   ![image](https://github.com/user-attachments/assets/1e87ac32-3858-41ed-bfb6-1b6f5bc9ea0e)
 
   ## Configure Jenkins
+  - Ensure server is aailable on these ports
+    ![image](https://github.com/user-attachments/assets/16a625de-98b4-4ac2-b5e1-efa6aa64b03b)
+
   - Access your jenkins server with browser and install plugins
     ![image](https://github.com/user-attachments/assets/49179eee-76a6-4264-94a4-e0a50c327625)
 
   - Create user profile
     ![image](https://github.com/user-attachments/assets/1d9e4e06-d402-4464-bf1e-7de92976b198)
+  - Login to Jenkins
+    ![image](https://github.com/user-attachments/assets/615d31f6-85d7-48f0-ad5d-5b070ec4f961)
+
+    ## Jenkins Build Job
+- Create a Pipeline Job
+  ![image](https://github.com/user-attachments/assets/7deeaf5b-a94f-4e13-8ae9-2d0445979b3e)
+
+  - Configure the Jenkins pipeline job
+    ![image](https://github.com/user-attachments/assets/0dd77a18-61cf-4b98-b793-c6b1ba886c3c)
+
+    ![image](https://github.com/user-attachments/assets/6cc55b61-eaba-4b82-a632-ef5680e54232)
+
+
+
     
 
+    
 
-    ![image](https://github.com/user-attachments/assets/615d31f6-85d7-48f0-ad5d-5b070ec4f961)
+    
 
 
 
